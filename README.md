@@ -1,4 +1,7 @@
 # sort-list-performance
+## Preview
+![sort-performance](https://user-images.githubusercontent.com/73613120/146683375-454c895a-f168-4616-8be6-78ed03a3d69f.png)
+
 ## Project
 Performance comparison of sorting methods with sorted and unsorted lists :
 - Bubble sort
